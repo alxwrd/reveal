@@ -4,6 +4,6 @@
 
 </script>
 
-<div class="flex justify-center my-64">
-<Button></Button>
+<div class="flex justify-center my-48">
+  <Button></Button>
 </div>

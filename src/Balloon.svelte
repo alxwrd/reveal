@@ -28,8 +28,7 @@
   export let colour = "pink";
   export let size = "md";
   export let y = window.innerHeight / 2.5;
-  console.log(y)
-  export let x = Math.floor(Math.random() * window.innerWidth / 2) + window.innerWidth / 4;
+  export let x = Math.floor(Math.random() * window.innerWidth);
   export let speed = Math.floor(Math.random() * 20) + 5;
 
   let shadeColour =
